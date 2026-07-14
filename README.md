@@ -1,18 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**henriquereolonpain-sys/henriquereolonpain-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="amora_halftonee.png" width="320" alt="Amora" />
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+não sei se é sina ou overfit,
+o baralho insiste no mesmo naipe.
+mas sigo rodando o mesmo script
+até o resultado finalmente caber.
 
-![amora](amora_halftonee.png)
+a build não vem pronta, vem em log,
+cada árvore de decisão, um caminho novo.
+o Louco não erra o passo, só ainda não sabe
+que dado nenhum substitui o salto.
+
+Amora dorme enquanto o pipeline roda,
+o universo, hoje, é só um cron job.
+e se a carta virar Torre, nem estranha,
+reconstruir também é parte do jogo.
+
+no fim é só isso: puxar a carta,
+rodar de novo, não saber ainda o motivo.
+e confiar, mesmo sem prova estatística,
+que o próximo commit é o definitivo.
+
+</div>
