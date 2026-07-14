@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![amora](amora_halftone.png)
+![amora](amora_halftonee.png)
